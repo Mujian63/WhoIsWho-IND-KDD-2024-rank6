@@ -1,0 +1,10 @@
+ipython 01_data_prepare.ipynb
+ipython 02_bge_m3_feats.ipynb
+ipython 03_chatglm_feats.ipynb
+ipython 04_feature.ipynb
+ipython 05_feature.ipynb
+ipython 06_feature_merge.ipynb
+ipython 07_feature_2.ipynb
+ipython 08_tree_model.ipynb
+ipython 09_gnn_model.ipynb
+ipython 10_ensemble_postprocess.ipynb
